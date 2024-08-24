@@ -3,8 +3,7 @@
 Integrantes:
 - **Lucas Daniel Mendoza Ramos** (Rol: Coordinador General y GitHub)
 
-  ![Foto Lucas](https://github.com/user-attachments/assets/b690e9af-9803-479d-b233-e561ee445f9f)
-
+![Foto Lucas (1)](https://github.com/user-attachments/assets/98bbd3b2-d852-49ad-80f4-381db81176f1)
 
 - **Massiel Melisa Badillo Aguayo** (Rol: Diseño 3D y Investigación)
 - **Pablo Emilio Parra Valer** (Rol: Prototipado Electrónico y Actualización del Git)
