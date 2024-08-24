@@ -1,4 +1,4 @@
-!Bienvenido al repositorio del grupo 4 del horario B403 de Fundamentos de Biondiseño!
+¡Bienvenido al repositorio del grupo 4 del horario B403 de Fundamentos de Biondiseño!
 
 Integrantes:
 - Lucas Daniel Mendoza Ramos
