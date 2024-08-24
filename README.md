@@ -15,3 +15,6 @@ Integrantes:
   ![ariana foto (1)](https://github.com/user-attachments/assets/6fe16602-9d7a-4566-b6f5-833c370e129b)
 
 - **Maria Teresa Mone Vilchez** (Rol: Diseño Electrónico y Redacción)
+
+  ![tere foto (1)](https://github.com/user-attachments/assets/132294ed-3339-4b4c-ba82-c4320762bbd6)
+
