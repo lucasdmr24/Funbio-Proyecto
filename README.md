@@ -13,7 +13,7 @@ Integrantes:
 
   ![parra foto](https://github.com/user-attachments/assets/243259b7-10f9-4c83-bce8-c8b60fa4333a)
 
-- **Ariana Valentina Ninanya Cruz** ( Rol: Manufactura Digital y Investigación), estudiante de 4to ciclo de Ingeniería Biomédica con principal interés en la gestión de biomateriales para la producción de prótesis de rehabilitación
+- **Ariana Valentina Ninanya Cruz** ( Rol: Manufactura Digital y Investigación), estudiante de 4to ciclo de Ingeniería Biomédica con principal interés en la gestión de biomateriales para la producción de prótesis de rehabilitación.
 
   ![ariana foto (1)](https://github.com/user-attachments/assets/6fe16602-9d7a-4566-b6f5-833c370e129b)
 
