@@ -5,11 +5,11 @@ Integrantes:
 
   ![Foto Lucas (1)](https://github.com/user-attachments/assets/98bbd3b2-d852-49ad-80f4-381db81176f1)
 
-- **Massiel Melisa Badillo Aguayo** (Rol: Diseño 3D y Investigación)
+- **Massiel Melisa Badillo Aguayo** (Rol: Diseño 3D y Investigación), estudiante de 4to ciclo de Ingeniería Biomédica interesada en ingeniería de tejidos y rehabilitación de pacietes.
 
   ![massiel foto (1)](https://github.com/user-attachments/assets/32491435-dfc0-498d-8d03-5888c917c461)
 
-- **Pablo Emilio Parra Valer** (Rol: Prototipado Electrónico y Actualización del Git)
+- **Pablo Emilio Parra Valer** (Rol: Prototipado Electrónico y Actualización del Git), estudiante de 4to ciclo de Ingeniería Biomédica interesado en diseño de prótesis y desarrollo de equipos médicos.
 
   ![parra foto](https://github.com/user-attachments/assets/243259b7-10f9-4c83-bce8-c8b60fa4333a)
 
@@ -17,7 +17,7 @@ Integrantes:
 
   ![ariana foto (1)](https://github.com/user-attachments/assets/6fe16602-9d7a-4566-b6f5-833c370e129b)
 
-- **Maria Teresa Mone Vilchez** (Rol: Diseño Electrónico y Redacción)
+- **Maria Teresa Mone Vilchez** (Rol: Diseño Electrónico y Redacción), estudiante de 4to ciclo de Ingeniería Biomédica interesada principalmente en ingeniería clínica y rehabilitación.
 
   ![tere foto (1)](https://github.com/user-attachments/assets/132294ed-3339-4b4c-ba82-c4320762bbd6)
 
