@@ -10,7 +10,7 @@ Este estudio descriptivo, retrospectivo y transversal se llevó a cabo en pacien
 El 78,1% de las amputaciones afectaron al miembro inferior, con un 53,9% de amputaciones por encima de la rodilla. Las causas traumáticas y no traumáticas fueron similares en frecuencia, destacando la angiopatía diabética como la principal causa no traumática (42,3%). (tabla 2\)  
 Las amputaciones no traumáticas fueron más comunes por encima de la rodilla (p \< 0,01), mientras que las traumáticas se observaron más en el grupo de ≤ 40 años (p \< 0,001). En Lima-Callao, las amputaciones de causa no traumática fueron más frecuentes (p \= 0,001). (tabla 3\)
 
-![][image1]
+![][image1](https://github.com/lucasdmr24/Funbio-Proyecto/blob/main/Imagenes/image1.png)
 
 [http://www.scielo.org.pe/scielo.php?script=sci\_arttext\&pid=S1018-130X2012000400005](http://www.scielo.org.pe/scielo.php?script=sci\_arttext\&pid=S1018-130X2012000400005)
 
