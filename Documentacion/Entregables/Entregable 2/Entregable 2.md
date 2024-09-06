@@ -80,27 +80,31 @@ Enero 11 , 2018  La patente propone una prótesis de rodilla con una mecánica 
 
 1. **Curvaturas Excéntricas**:
 
-    * Las superficies de curvatura excéntrica en los cóndilos medial y lateral permiten un movimiento de rotación más natural y controlado, adaptándose mejor a la anatomía de la rodilla.
+Las superficies de curvatura excéntrica en los cóndilos medial y lateral permiten un movimiento de rotación más natural y controlado, adaptándose mejor a la anatomía de la rodilla.
 
 2. **Guía de Movimiento**:
 
-    * La superficie de apoyo del componente tibial tiene áreas específicas diseñadas para guiar los cóndilos femorales durante la flexión, lo que facilita tanto la rotación como la traslación A/P.
+La superficie de apoyo del componente tibial tiene áreas específicas diseñadas para guiar los cóndilos femorales durante la flexión, lo que facilita tanto la rotación como la traslación A/P.
 
 3. **Reducción del Desgaste**:
 
-    * Al distribuir las fuerzas y el contacto de manera más uniforme y permitir un movimiento más natural, el diseño reduce el desgaste en el implante y minimiza el daño a los tejidos blandos circundantes.
+Al distribuir las fuerzas y el contacto de manera más uniforme y permitir un movimiento más natural, el diseño reduce el desgaste en el implante y minimiza el daño a los tejidos blandos circundantes.
 
 4. **Alineación de Centros de Rotación**:
 
-    * La patente describe que los centros de rotación de las superficies de curvatura pueden no estar alineados entre los cóndilos medial y lateral, lo que permite un ajuste más preciso del movimiento.
+La patente describe que los centros de rotación de las superficies de curvatura pueden no estar alineados entre los cóndilos medial y lateral, lo que permite un ajuste más preciso del movimiento.
 
 5. **Método de Flexión**:
 
-    * Se incluye un método para inducir la rotación axial y la traslación A/P a través del rango de flexión de la rodilla, mejorando la funcionalidad y el ajuste del implante durante el movimiento.
+Se incluye un método para inducir la rotación axial y la traslación A/P a través del rango de flexión de la rodilla, mejorando la funcionalidad y el ajuste del implante durante el movimiento.
 
 6. **Diseño de Manga para el Poste**:
 
-    * El diseño del poste con una manga permite la rotación axial relativa entre el poste y el componente tibial, facilitando el movimiento natural y evitando restricciones en el rango de flexión.
+El diseño del poste con una manga permite la rotación axial relativa entre el poste y el componente tibial, facilitando el movimiento natural y evitando restricciones en el rango de flexión.
+
+![image alt text](image_0.png)
+
+![image alt text](image_1.png)
 
 **Patente 2:**
 
@@ -129,6 +133,10 @@ Los enlaces ligamentosos tienen un extremo asegurado al engranaje femoral y el e
 4. **Similitud con los LCA y LCP**:
 
 En formas adicionales, los enlaces ligamentosos pueden operar como un mecanismo de resorte de cuatro barras cruzadas que imitan un LCA y un LCP de una rodilla sana. Más específicamente, los enlaces ligamentosos incluyen dos enlaces LCA y dos enlaces LCP.
+
+![image alt text](image_2.jpg)![image alt text](image_3.jpg)
+
+![image alt text](image_4.jpg)
 
 "[https://patents.google.com/patent/US20180008421A1/en?q=(prostetic+knee)&oq=prostetic+knee+](https://patents.google.com/patent/US20180008421A1/en?q=(prostetic+knee)&oq=prostetic+knee+)" 
 
@@ -176,7 +184,9 @@ Funcionamiento:
 
 - El dispositivo puede ser diseñado específicamente como órtesis o prótesis para las extremidades inferiores, mejorando la movilidad y el patrón de marcha del paciente.
 
-![image alt text](image_0.png)
+![image alt text](image_5.png)
+
+![image alt text](image_6.png)
 
 Lista de Requerimientos:
 
