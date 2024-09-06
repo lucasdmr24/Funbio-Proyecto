@@ -1,26 +1,29 @@
-**Problemática:**Las prótesis disponibles para personas mayores con amputación arriba de la rodilla (AK F2) no cubren adecuadamente sus necesidades específicas, como subir gradas o mantener el equilibrio en la ducha. La adaptación es más difícil debido a la edad, lo que afecta su movilidad, incrementa el riesgo de caídas y reduce su calidad de vida al aumentar la dependencia.**Estado de Arte ****Contexto Comercial**Equipos
+**Problemática:**
+Las prótesis disponibles para personas mayores con amputación arriba de la rodilla (AK F2) no cubren adecuadamente sus necesidades específicas, como subir gradas o mantener el equilibrio en la ducha. La adaptación es más difícil debido a la edad, lo que afecta su movilidad, incrementa el riesgo de caídas y reduce su calidad de vida al aumentar la dependencia.
+
+**Estado de Arte **
+
+**Contexto Comercial**
+
+Equipos
 
 <table>
   <tr>
     <td>Nombre del producto</td>
-    <td>Imagen Referencial</td>
     <td>Características</td>
   </tr>
   <tr>
     <td>Rodilla 3R80 Otto Bock
 
 </td>
-    <td></td>
-    <td>Resistente al agua
-"Sistema hidráulico de rotación"
-Grado de movilidad 3 y 4 (puede aguantar niveles o actividades que requieren gran energía)
-Peso de usuario <150 kg
-Costo aproximado: 8500 dólares
-Peso de la prótesis: 1,2 kg aprox.</td>
-  </tr>
+    <td> Resistente al agua, "Sistema hidráulico de rotación"
+, Grado de movilidad 3 y 4 (puede aguantar niveles o actividades que requieren gran energía)
+, Peso de usuario <150 kg
+, Costo aproximado: 8500 dólares
+, Peso de la prótesis: 1,2 kg aprox.</td>
+
   <tr>
     <td>C-Leg 4 by Ottobock</td>
-    <td></td>
     <td>Grado de movilidad: 2, 3, 4
 Peso máximo: 136 kg.
 Prótesis controlada por un microprocesador
@@ -32,7 +35,6 @@ Costo aproximado: 40-50 k dólares</td>
   </tr>
   <tr>
     <td>Plié 3</td>
-    <td></td>
     <td>Peso máximo: 125 kg.
 Peso de la prótesis: 1.235 kg.
 Prótesis controlada por microprocesador 
@@ -42,13 +44,18 @@ Responde con una rapidez considerablemente mayor a la de otro tipo de prótesis 
 </table>
 
 
-Patentes
 
-**Patente 1: **US020180008421A120180111Anatomical motion hinged prosthesis
+
+Patentes
+
+**Patente 1: **
+US020180008421A120180111
+Anatomical motion hinged prosthesis
 
 United States  
 
-Enero 11 , 2018  La patente propone una prótesis de rodilla con una mecánica mejorada para lograr un movimiento más natural y reducir el desgaste, utilizando una combinación de superficies de curvatura excéntrica y mecanismos de guía para lograr una rotación y traslación cinemáticamente correctas.
+Enero 11 , 2018  
+La patente propone una prótesis de rodilla con una mecánica mejorada para lograr un movimiento más natural y reducir el desgaste, utilizando una combinación de superficies de curvatura excéntrica y mecanismos de guía para lograr una rotación y traslación cinemáticamente correctas.
 
 ### **Funcionamiento**
 
@@ -188,7 +195,9 @@ Funcionamiento:
 
 ![image alt text](image_6.png)
 
-Lista de Requerimientos:
+
+
+Lista de Requerimientos:
 
 <table>
   <tr>
@@ -214,7 +223,9 @@ Funcionamiento:
 </table>
 
 
-Propuesta de solución:
+
+
+Propuesta de solución:
 
 -Creación de una prótesis que facilite los movimientos que demandan un tiempo prolongado de rehabilitación, así como esfuerzo físico y equilibrio, para adultos mayores.
 
