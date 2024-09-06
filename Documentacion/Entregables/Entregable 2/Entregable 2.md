@@ -43,7 +43,17 @@ Responde con una rapidez considerablemente mayor a la de otro tipo de prótesis 
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbRgHOmz1YMoL1beaScfqTk-jvyTXp4zgsw&s">
+</p>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyWfwtRIltcyHm5ef2BfOKYSg6ZvdLrBFfw&s)">
+</p>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpYAB3V58Y1MnqIgyXJda-vi2Yt9KfEVs_A&s">
+</p>
 
 
 Patentes
