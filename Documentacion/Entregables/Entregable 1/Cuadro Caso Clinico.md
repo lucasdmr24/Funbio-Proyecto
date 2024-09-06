@@ -1,12 +1,16 @@
-Datos Clave del caso:
+**Datos Clave del caso:**
 
 muñón cilíndrico, tejido celular subcutáneo pesado, musculatura media, contractura de psoas, rango articular limitado a extensión. Miembro contralateral: hipotrofia muscular, cicatriz en cara posterior medial. Rangos articulares conservados, contractura de gemelos. Fuerza muscular 3+. AC: independiente hasta (4 puntos) posición de gateo.
 
-Definiciones de términos clave:
+**1. Definiciones de términos clave:**
 
-Análisis de la temática y/o caso:
+* Muñón: parte de un miembro que ha sido amputado
 
-2.1 Contexto en el Perú
+* Hipotrofia muscular: Debilitamiento debido a la disminución de músculo
+
+**2. Análisis de la temática y/o caso:**
+
+2.1 **Contexto en el Perú**
 
 Este estudio descriptivo, retrospectivo y transversal se llevó a cabo en pacientes del área de Amputados del Instituto Nacional de Rehabilitación "Adriana Rebaza Flores" en Lima-Callao, Perú, entre 2002 y 2007. Se incluyeron 570 pacientes, pero solo 331 historias clínicas (58,1%) contenían datos completos sobre la condición socioeconómica. La edad promedio de los pacientes fue de 43,11 ± 21,55 años (rango: 1 a 93 años). Los pacientes mayores de 40 años presentaron mayor frecuencia de amputaciones por causas no traumáticas (principalmente vasculares), mientras que en los menores de 40 años predominaron las amputaciones traumáticas. (tabla 1).
 
@@ -18,7 +22,7 @@ Las amputaciones no traumáticas fueron más comunes por encima de la rodilla (p
 
 [http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2012000400005](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2012000400005)
 
-2.2 Contexto mundial
+2.2 **Contexto mundial**
 
 A nivel mundial, la amputación se considera un problema de salud pública. Para crear programas y políticas destinados a prevenir la amputación y mejorar la salud de los afectados, es crucial conocer su epidemiología.
 
@@ -32,7 +36,7 @@ Este cuadro muestra que la mayoría de las amputaciones son unilaterales, siendo
 
 ![image alt text](image_3.jpg)
 
-El 92% de los pacientes recibió intervenciones de rehabilitación. La mayoría usa silla de ruedas para movilizarse (78,7%), y el 86,6% postuló a SENADIS para adquirir prótesis. Solo el 5,3% obtuvo la prótesis de manera particular. En cuanto a la reinserción laboral, solo el 14,7% logró reinsertarse, mientras que el 70,6% no tiene licencia médica.
+El 92% de los pacientes recibió intervenciones de rehabilitación. La mayoría usa silla de ruedas para movilizarse (78,7%), y el 86,6% postuló a SENADIS para adquirir prótesis. Solo el 5,3% obtuvo la prótesis de manera particular. En cuanto a la reinserción laboral, solo el 14,7% logró reinsertarse, mientras que el 70,6% no tiene licencia médica. por
 
 ![image alt text](image_4.jpg)
 
@@ -46,11 +50,10 @@ Cuadro médico
     <td>Monitoreo</td>
   </tr>
   <tr>
-    <td>-Implementar estrategias para mejorar la rapidez de respuesta de las ambulancias en situaciones críticas, garantizando una atención oportuna.
+    <td>-Implementar estrategias para mejorar la rapidez de respuesta de las ambulancias en situaciones críticas, garantizando una atención oportuna y efectiva.
 
--Asegurar un seguimiento constante y adecuado de los niveles de glucosa en personas con diabetes mellitus para prevenir complicaciones graves.
-
--Promover la formación en primeros auxilios y asegurar la disponibilidad de recursos necesarios para actuar de manera efectiva en emergencias antes de la llegada de profesionales.</td>
+-Asegurar un seguimiento constante y adecuado de los niveles de glucosa en personas con diabetes mellitus para prevenir complicaciones graves, asimismo mejorar la educación de la paciente respecto a su condición.
+</td>
     <td>-Posibilidad de uso de prótesis
 
 -Cesáreas
@@ -97,11 +100,11 @@ Diagrama de Ishikawa:
 
 ![image alt text](image_5.jpg)
 
-Definición del Problema:
+**3. Definición del Problema**
 
-* Insuficiencia de prótesis para la amputación transversal arriba de rodilla AK F2 para personas de mayor edad que necesitan ayuda en su capacidad motora.
+Falta de  prótesis en el Perú para la amputación transversal arriba de rodilla AK F2 para personas de mayor edad que necesitan habilidades motoras más específicas y que requieren mayor esfuerzo físico y tiempo para acostumbrarse a la protesis por la edad . (ejem subir gradas, mantener el equilibrio en la ducha, subir rampas, etc).
 
-Estado del Arte-Contexto Científico:
+**4. Estado del Arte-Contexto Científico:**
 
 Una prótesis transfemoral, como su nombre indica, se utiliza cuando el paciente ha sufrido una amputación por encima de la rodilla. Estas prótesis cubren la mayor parte de la pierna y, por lo tanto, incluyen dos articulaciones. También se les conoce como prótesis por encima de la rodilla y están compuestas por cuatro componentes principales.
 
@@ -117,7 +120,7 @@ En el mercado hay una amplia variedad de componentes para prótesis transfemoral
 
 ![image alt text](image_6.png)
 
-1.  Encaje
+1.  **Encaje**
 
 El encaje o socket es el componente que conecta al paciente con la prótesis y permite la transmisión del peso del cuerpo hacia el suelo a través de toda la prótesis. Su forma es crucial para garantizar el confort y la funcionalidad, ya que debe ajustarse perfectamente al muñón sin comprometer la circulación ni quedar demasiado flojo. En el caso de las prótesis transfemorales, el encaje generalmente cubre todo el muñón. Su diseño debe aprovechar los músculos del muñón para controlar la prótesis y transmitir el peso del amputado hacia el suelo.
 
@@ -125,21 +128,21 @@ Los encajes suelen ser fabricados de plástico rígido, aunque también existen 
 
 ![image alt text](image_7.png)
 
-2. Pierna
+2. **Pierna**
 
 Este componente tiene la función de conectar la articulación de la rodilla con el tobillo y es responsable de transmitir las fuerzas generadas por el peso del paciente hacia el suelo.
 
-3. Pie-Tobillo 
+3. **Pie-Tobillo **
 
 Este componente incluye la articulación del tobillo y se clasifica en dos tipos: articulados y no articulados. Los tobillos articulados permiten movimiento y se subdividen según el rango de movimiento que ofrecen, con opciones de eje único y eje múltiple. Los tobillos de eje múltiple proporcionan mayor flexibilidad y mejor estabilidad al caminar sobre superficies irregulares. Por otro lado, los tobillos no articulados, como el "SACH Foot", son más simples y están diseñados para funciones básicas.
 
 ![image alt text](image_8.png)
 
-4) Rodilla
+4)** Rodilla**
 
 El sistema de la rodilla es probablemente el componente más complejo de una prótesis. Su función es proporcionar soporte al paciente cuando está de pie, facilitar una marcha natural y suave, y permitir que la persona se siente. Actualmente, existen más de 100 tipos de rodillas protésicas disponibles, que van desde sistemas tradicionales hasta los más avanzados tecnológicamente. Para elegir el sistema de rodilla más adecuado para cada paciente, los doctores, protesistas y especialistas en rehabilitación deben considerar factores como la edad del amputado, su estado de salud, el nivel de actividad y su estilo de vida. Entre los más de 100 tipos de rodillas, se destacan dos categorías principales: las rodillas mecánicas y las computarizadas.
 
-* **4.1 Rodillas mecanicas **
+* **4.1 Rodillas mecánicas **
 
 **_Rodillas de eje simple_**
 
@@ -209,15 +212,17 @@ Estos sistemas funcionan gracias a un pistón dentro de un cilindro que da difer
 
 Utilizan cilindros neumáticos que proveen energía para que la articulación pueda extender y flexionar. Pueden contar con un resorte para dar mayor control a la marcha dando mayor control que los sistemas de fricción y en algunas ocasiones son considerados menos efectivos que los sistemas hidráulicos. 
 
-![image alt text](image_11.png)
+**                              **
 
-**                               control de balanceo por control neumático**
+**               **
+
+**                                control de balanceo por control neumático**
 
 **_Control hidráulico: _**
 
 Utilizan aceite de silicón para responder a un amplio rango de velocidades durante la marcha. Permiten una funcionalidad muy cercana a la articulación normal. Sin embargo, estos sistemas son más pesados, necesitan mayor mantenimiento y tienen un costo más elevado que los sistemas neumáticos. Pacientes con niveles altos de actividad usualmente usan este tipo de sistemas.
 
-![image alt text](image_12.png)
+![image alt text](image_11.png)
 
 * **4.2 Rodillas computarizadas**
 
@@ -230,24 +235,6 @@ Usualmente son más pequeñas y menos pesadas que las rodillas mecánicas ?? Son
 - El esfuerzo es menor para el amputado, lo que deriva en una marcha más natural, permiten que el paciente camine por más tiempo y cuentan con mayor control en superficies disparejas 
 
 -Estas prótesis pueden ser usadas por pacientes con un nivel de actividad moderado hasta pacientes con niveles altos de actividad.
-
-* https://www.sciencedirect.com/science/article/pii/S1293296519427102
-
-1. **Título del Artículo Científico: Prótesis para amputados de miembro inferior (F. Lamandé, J.-C. Dupré, P. Talbot, P. Rougale, J. Sénégas-Rouvière, O. Salze) 2019**
-
-* En este se mencionan los tipos de prótesis más recurrentes. Se puede resaltar las prótesis de baño, las cuales son capaces de resistir el contacto con agua y proporciona apoyo bipodal al paciente; se resalta que "todos los niveles de amputación tibial y femoral pueden beneficiarse de ello". También, se puede resaltar la prótesis femoral con manga de gel, la cual es descrita como una de fácil colocación; cuenta con encaje cuadrangular o de isquion incluido. Asimismo, se describen las prótesis de adaptación provisional, las cuales suelen contar con un encaje de yeso; su encaje es cuadrangular, es suspendida por una correa que debe pasar por el hombro del usuario; se menciona también que “Su uso contribuye activamente a la reabsorción del edema”
-
-![image alt text](image_13.png)![image alt text](image_14.png)![image alt text](image_15.png)
-
-2. **The bone anchored prostheses for amputees – Historical development, current status, and future aspects**
-
-**[https://www.sciencedirect.com/science/article/pii**/](https://www.sciencedirect.com/science/article/pii/S0142961221001927)**[S014296122100192**7](https://www.sciencedirect.com/science/article/pii/S0142961221001927)
-
-* OPRA consta de tres componentes principales: un componente totalmente implantado, de forma cilíndrica y con rosca externa, un componente percutáneo llamado "pilar" el cual encaja en el extremo distal del dispositivo y al que se une la prótesis y un tipo de “tornillo”, el cual comprime los dos componentes previamente mencionados 
-
-* Este sistema cuenta con hilos proximales, los cuales ayudan a proporcionar un mejor anclaje. Asimismo, cuenta con hilos distales, los cuales son lisos y permiten reducir la adhesión de bacterias entre el hueso, prótesis y la piel.
-
-* ![image alt text](image_16.png)![image alt text](image_17.png)
 
 **Pies protésicos avanzados:**
 
