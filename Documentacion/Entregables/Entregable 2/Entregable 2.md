@@ -1,5 +1,5 @@
 **Problemática:**
-Las prótesis disponibles para personas mayores con amputación arriba de la rodilla (AK F2) no cubren adecuadamente sus necesidades específicas, como subir gradas o mantener el equilibrio en la ducha. La adaptación es más difícil debido a la edad, lo que afecta su movilidad, incrementa el riesgo de caídas y reduce su calidad de vida al aumentar la dependencia.
+La falta de seguimiento durante la fase protésica para personas adultas con amputación arriba de la rodilla (AK F2) puede generar complicaciones como el debilitamiento muscular, contracturas y deformidades aumentando la carga sobre la extremidad sana. No consideran sus necesidades como la reincorporación a la vida laboral y la frustración emocional del paciente debido a la prolongada dependencia o adaptación a su prótesis, situaciones de las que pueden abstenerse si se les da el seguimiento debido.
 
 **Estado de Arte **
 
