@@ -50,7 +50,8 @@
 
 * Ofrece mayor libertad al usuario de medir la presión plantar en actividades que realice con mayor frecuencia, es decir se puede hacer un contraste entre la caminata solicitada usualmente en un estudio de baropodometría y otras actividades regulares.
 
-4. Viabilidad  Técnica 
+4. Viabilidad  Técnica:
+Será necesario manejar sensores tanto de presión como de ángulo. Se menciona así, por ejemplo los sensores de tipo FSR, los cuales ayudan a cuantificar la compresión o peso que es ejercido. También, para la medición de ángulo se pueden identificar otros sensores como los giroscopios. Será necesario evaluar los puntos específicos en donde estos deben ubicarse con el fin de obtener la información que sea de mayor ayuda. También, se necesitarán conocimientos de programación y almacenamiento de datos para poder recopilar información y organizarla.
 
 3. **Coherencia **
 
